@@ -12,6 +12,6 @@
 
 <h3 align="left">Currently working on:</h3>
 <p> Web app project to create a marketplace for people to post and rent spaces for work o other uses --> DeskBnB (https://github.com/marenoztro/The_Upffice_Final_Project_4GEEKS)</p>
-
+<br/>
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
