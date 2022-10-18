@@ -1,4 +1,4 @@
-<h1 align="center">🖥  Hello World! 👋 I'm Sergio Merizalde 🚀 </h1> 
+<h1 align="center">🖥  Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px"> I'm Sergio Merizalde 🚀 </h1> 
 
 <h4 align="left">Actively involved in the technological industry and with hopes to break into a developer role. Interested in web development, problem solving and business cases that can be solved through the use of software. Currently working in Product role, but hoping to change my career course and become a software developer full time. <h4/>
  
@@ -13,3 +13,5 @@
 <h3 align="left">Currently working on:</h3>
 <p> Web app project to create a marketplace for people to post and rent spaces for work o other uses --> DeskBnB (https://github.com/marenoztro/The_Upffice_Final_Project_4GEEKS)</p>
 
+
+<img align="center" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
